@@ -6,7 +6,7 @@ import random
 from telebot import TeleBot, types
 
 # আপনার টোকেন দিন
-BOT_TOKEN = "8612176083:AAFo0_60n_GhQXMlPpygVb_MMoasKa_TqM8"
+BOT_TOKEN = "8612176083:AAH3zupfuvzYXv3V4oAvEiupOGueCLPiqzc"
 bot = TeleBot(BOT_TOKEN)
 
 user_data = {}
